@@ -1,1 +1,2 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+Welcome oto the WarwickTECH Wiki. This wiki contains everything you might ask, would like to know and are possibly unsure of! This should be your
+
