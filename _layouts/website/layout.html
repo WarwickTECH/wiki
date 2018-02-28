@@ -29,7 +29,7 @@
 {% endblock %}
 
 {% block body %}
-<nav class="faq-navbar navbar navbar-default" style="background-color:#222;border-radius:0px">
+<nav class="faq-navbar navbar navbar-default" style="background-color:rgb(0, 96, 169);border-radius:0px">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-menu" aria-expanded="false">
@@ -38,8 +38,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ basePath }}">
-                {% block faq_header_brand %}{{ config.title|d("Home", true) }}{% endblock %}
+            <a class="navbar-brand" href="{{ basePath }}" style="color:whitesmoke">
+                <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+            </a>
+            <a class="navbar-brand" href="https://warwick.tech" style="color:whitesmoke">
+                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
             </a>
         </div>
 
@@ -50,8 +53,8 @@
 </nav>
 
 <div class="faq-header" style="background-color:#0061A9">
-    <div class="container">
-    <img src="https://warwick.tech/static/landing_page/images/logos/warwicktech.png" height="100" />
+    <div class="container" style="display: table;max-width: 600px;">
+    <img src="https://warwick.tech/static/landing_page/images/logos/warwicktech.png" width="100%" />
 
     {% block search_input %}{% endblock %}
 
@@ -74,6 +77,7 @@
     {% block faq_footer %}
     <div class="faq-page-footer">
         <span>Last edit {{ file.mtime|date('MMMM Do YYYY') }}</span>
+        <span>| Copyright &copy; WarwickTECH 2018</span>
     </div>
     {% endblock %}
 {% endblock %}
