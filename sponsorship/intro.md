@@ -6,7 +6,8 @@
 
 ### Negotiating Contracts
 
+### How to write a contract?
+
 #### Author
 
-By Alex Bucknall
-28/02/2018
+Alex Bucknall
