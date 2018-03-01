@@ -5,7 +5,7 @@ related:
 
 *"Hackathons are weekend-long technology festivals. They're somewhere you can meet like-minded people, learn new things, and create cool technology. They can sound pretty intimidating... but you don't have to be some sort of genius or a coding pro to take part."* 
 
--- Tim Fogarty, MLH Commissioner 2015
+&mdash; Tim Fogarty, MLH Commissioner 2015
 
 WarwickHACK is one of WarwickTECH's flagship events and always one of the highlight moments for both the team as well as WarwickTECH's members. Organising hackathons can be a challenge; requiring the team to be organised, on top of sponsorship and ahead of the game with regards to logistics and catering. 
 
@@ -13,11 +13,15 @@ WarwickHACK is one of WarwickTECH's flagship events and always one of the highli
 
 If you haven't already ensure that [MLH](mlh.io) has been contacted and that a date has been pencilled into their calender for when you plan to run the hackathon.
 
+
+<!-- EXAMPLE OF HOW TO ADD A CENTRED IMAGE -->
 <br>
 
 <p align="center"><img src ="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.svg" width="220"></p>
 
 <br>
+<!--                                       -->
+
 
 MLH, **Major League Hacking**, are body that governs the student hackathon league that many North American and European hackathons participate in. They provide a number of advantages to the hackathons that take part in their league;
 
@@ -36,6 +40,6 @@ The next step is locking down a venue. You'll need to determine the capacity of 
 
 You'll also at this point want to check out the [6 month hackathon plan](./calendar.md). This document details what you should be doing with approximate timings, leading up to the hackathon.
 
-#### Author
+##### Author
 
-Alex Bucknall
+*Alex Bucknall*
