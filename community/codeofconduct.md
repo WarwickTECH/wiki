@@ -1,9 +1,12 @@
-WarwickTECH use the following as a template for our code of contact. Please ensure that the latest version of this document is available for participants.
+WarwickTECH use the following as a template for our code of contact. The code of conduct is a document designed to protect both our members and team from inappropriate/offensive behaviour at our events. 
+
+**Please ensure that the latest version of this document is readily available for participants of any event that WarwickTECH hosts**.
 
 ---
 
+# Code of Conduct
 
-We believe that everyone has the right to be in a safe and welcoming environment when attending events run, or supported, by the WarwickHTECH. 
+We believe that everyone has the right to be in a safe and welcoming environment when attending events run, or supported, by the WarwickTECH. 
 
 More than just a charity, we are a community. Being part of this community means: 
 
