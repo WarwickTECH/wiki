@@ -1,6 +1,6 @@
 # Summary
 
-## Wiki
+## Getting Started
 * [Intro - What is this Wiki and who is it for?](home.md)
 * [Contribute - How can I add to/improve this resource?](wiki/contribute.md)
 
@@ -27,7 +27,8 @@
 * [Objectives - What does the Product team want to achieve this year?](product/objectives.md)
 * [Tools - What are the tools and apps that the Product team uses?](product/tools.md)
 * [Products - What is the Product team currently working on?](product/products.md)
-* [Software - What languages and frameworks does the Product team use?](product/products.md)
+* [Software - What languages and frameworks does the Product team use?](product/software.md)
+* [Brand - What are the brand guidelines and mission statements?](product/brand.md)
 
 
 ## Growth & Partnerships

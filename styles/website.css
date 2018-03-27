@@ -9,3 +9,24 @@ body {
 .panel-heading {
     border-bottom: 1px solid #e7e7e7;
 }
+
+#circle {
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: #0061A9;
+    text-align: center;
+      line-height: 100px;
+      color: white;
+      font-weight: bold;
+}
+
+p,a,i  {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}

@@ -4,6 +4,8 @@ related:
     - github/how-can-i-resolve-github-sync-errors.md
 ---
 
+# TEMPLATE
+
 Exporting your GitBook content to a GitHub repository is super simple:
 
 1. [Setup GitHub](#setup-github)
