@@ -4,5 +4,8 @@
         "search",
         "-fontsettings",
         "-sharing"
-    ]
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    }
 }
