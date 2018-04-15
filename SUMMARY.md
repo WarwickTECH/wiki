@@ -26,6 +26,7 @@
 * [Tools - What are tools and apps that the WarwickTECH team uses?](team/tools.md)
 * [Policies - What are our policies for expenses, etc.?](team/policies.md)
 * [Alumni - Who is part of the Alumni network?](team/past-team.md)
+* [Meetings - How/When should we run meetings?](team/meetings.md)
 
 ## Product
 
