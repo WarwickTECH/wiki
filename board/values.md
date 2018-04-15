@@ -20,5 +20,24 @@
 
 * **Campus-Wide Pervasiveness:To continue engaging with other university departments, with the notion that tech is not only for the technical courses.**
 
+Deep Tech Startups/Scaleups
+
+* * AI
+  * AR
+  * Blockchain
+  * Drones
+  * IoT
+  * Robots
+  * VR
+  * 3D Printing
+* Quantitative Modelling/Development
+* Data Science
+* R &D Stage Tech
+
+* > Blockchain
+  > Smart Dust
+  > Neuromorphic Engineering
+  > 4D Printing
+
 
 
