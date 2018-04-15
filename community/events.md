@@ -1,8 +1,8 @@
 **Events**
 
-*  \(Note: Embossed events are coding-focused\) \(Events that need speakers have an embossed 
+* \(Note: Embossed events are coding-focused\) \(Events that need speakers have an embossed 
   &
-   underlined 
+  underlined 
   **X\)**
 * Quick list for external reference: 
   [https://warwicktech.slack.com/files/U43TLU6U8/F86MJV1EK/term\_2\_wt\_roadmap.pdf](https://warwicktech.slack.com/files/U43TLU6U8/F86MJV1EK/term_2_wt_roadmap.pdf)
@@ -111,6 +111,48 @@
     * Week 8: Break? \[London DemoDay @ The Shard \(Warwick Incubator\) 28th Feb\]
     * Week 9: Tech Night London 2018
     * Week 10: WarwickTECH Outro - Food and Drinks
+
+
+
+1. Hardware, Prototyping, Product design
+
+3D printing - CAD design workshops \(How to use Fusion 360\)
+
+Wearable Tech - CAD design, Developing your first prototypes
+
+2.Electronics - Assembly, Circuit Schematics, Programming
+
+Robotics -  Printed Circuit Board design, Components assembly, C programming \(arduino, raspberry pi\)
+
+Wearable Tech - "" "" ""
+
+3.Backend Dev
+
+Ai- Machine Learning - AI artist \(Google Deep Dream\)
+
+3D Graphics- How to use WebGl as a framework for your animations/graphics
+
+Internet of Things - Cloud computing, communications \(wifi, bluetooth\)
+
+4. Analytics
+
+Ai Machine Learning - Image Classifier 
+
+Wearable Tech - Analysing and retrieving data \(sensors, accelerometers\)
+
+5.Front end - Programming
+
+Generative Art - Learn Processing to design generative patterns
+
+3D Graphics -Learn three.js in Javascript to design interactive web
+
+3D printing \(OpenSCAD\)
+
+6.Front end - Graphics Design
+
+How to create posters for your products \(Photoshop, Adobe Illustrator Workshops\)
+
+Understanding UI and UX in web/mobile applications
 
 
 
