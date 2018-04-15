@@ -112,8 +112,6 @@
     * Week 9: Tech Night London 2018
     * Week 10: WarwickTECH Outro - Food and Drinks
 
-
-
 1. Hardware, Prototyping, Product design
 
 3D printing - CAD design workshops \(How to use Fusion 360\)
@@ -134,9 +132,9 @@ Ai- Machine Learning - AI artist \(Google Deep Dream\)
 
 Internet of Things - Cloud computing, communications \(wifi, bluetooth\)
 
-4. Analytics
+1. Analytics
 
-Ai Machine Learning - Image Classifier 
+Ai Machine Learning - Image Classifier
 
 Wearable Tech - Analysing and retrieving data \(sensors, accelerometers\)
 
@@ -155,4 +153,18 @@ How to create posters for your products \(Photoshop, Adobe Illustrator Workshops
 Understanding UI and UX in web/mobile applications
 
 
+
+Event Organisation
+
+        - Sales/Partnerships - How to form partnerships without credibility
+
+        - Marketing - Inbound Marketing/Sales
+
+        - Financing - Angel/Investor/Accelerator
+
+        - Legal - Bristows Guest Talk on IP, Lean Law, IPO Underwriting
+
+        - Organisation/Personnel - The Death of HR, What exactly is People Operations \(or Employee Experience\)?
+
+        - Product Development - Bringing a Product/Service to Market, Crowdsourcing Site and/or Success Story?
 
