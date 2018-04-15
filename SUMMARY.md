@@ -18,6 +18,7 @@
 
 * [Current Team - Who's part of the WarwickTECH team?](team/current-team.md)
 * [Team Structure - What is the reporting structure?](team/structure.md)
+* [Meetings - Keeping coordinated](team/meetings-keeping-coordinated.md)
 * [Year Plan - What are the milestones we want to reach this year?](team/plan.md)
 * [Objectives - What do we want to achieve this year?](team/objectives.md)
 * [Hiring Process - How we go about hiring new team members?](team/hiring.md)
