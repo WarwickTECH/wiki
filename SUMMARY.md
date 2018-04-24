@@ -1,57 +1,58 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Getting Started
 
-* [Introduction](README.md)
-* [Intro - What is this Wiki and who is it for?](home.md)
-* [Contribute - How can I add to/improve this resource?](wiki/contribute.md)
+* [Introduction](getting-started/introduction.md)
+* [Contribute](getting-started/contribute-how-can-i-add-to-improve-this-resource.md)
 
 ## Board of Trustees
 
-* [Board - Who are the trustees?](board/trustees.md)
-* [History - Where did WarwickTECH come from?](board/history.md)
-* [Mission - What's our purpose?](board/misson.md)
-* [Values - How do we strive to achieve our values?](board/values.md)
-* [Charity - What does being a charity entail?](board/charity.md)
+* [Board](board-of-trustees/board-who-are-the-trustees.md)
+* History
+* [Mission](board-of-trustees/mission-whats-our-purpose.md)
+* [Values](board-of-trustees/values-how-do-we-strive-to-achieve-our-values.md)
+* Charity
 
 ## Executive Team
 
-* [Current Team - Who's part of the WarwickTECH team?](team/current-team.md)
-* [Team Structure - What is the reporting structure?](team/structure.md)
-* [Meetings - Keeping coordinated](team/meetings-keeping-coordinated.md)
-* [Year Plan - What are the milestones we want to reach this year?](team/plan.md)
-* [Objectives - What do we want to achieve this year?](team/objectives.md)
-* [Hiring Process - How we go about hiring new team members?](team/hiring.md)
-* [Calendar - What events are on this year?](team/calendar.md)
-* [Tools - What are tools and apps that the WarwickTECH team uses?](team/tools.md)
-* [Policies - What are our policies for expenses, etc.?](team/policies.md)
-* [Alumni - Who is part of the Alumni network?](team/past-team.md)
-* [Meetings - How/When should we run meetings?](team/meetings.md)
+* [Current Team](executive-team/current-team-whos-part-of-the-warwicktech-team.md)
+* [Team Structure](executive-team/team-structure-what-is-the-reporting-structure.md)
+* Meetings
+* Year Plan
+* [Objectives](executive-team/objectives-what-do-we-want-to-achieve-this-year.md)
+* [Hiring Process](executive-team/hiring-process-how-we-go-about-hiring-new-team-members.md)
+* [Calendar](executive-team/calendar-what-events-are-on-this-year.md)
+* [Tools](executive-team/tools-what-are-tools-and-apps-that-the-warwicktech-team-uses.md)
+* [Policies](executive-team/policies-what-are-our-policies-for-expenses-etc..md)
+* [Alumni](executive-team/alumni-who-is-part-of-the-alumni-network.md)
+* [Meetings](executive-team/meetings-how-when-should-we-run-meetings.md)
 
 ## Product
 
-* [Current Team - Who's part of the Product team?](product/current-team.md)
-* [Objectives - What does the Product team want to achieve this year?](product/objectives.md)
-* [Tools - What are the tools and apps that the Product team uses?](product/tools.md)
-* [Products - What is the Product team currently working on?](product/products.md)
-* [Software - What languages and frameworks does the Product team use?](product/software.md)
-* [Brand - What are the brand guidelines and mission statements?](product/brand.md)
+* [Current Team](product/current-team-whos-part-of-the-product-team.md)
+* [Objectives](product/objectives-what-does-the-product-team-want-to-achieve-this-year.md)
+* [Tools](product/tools-what-are-the-tools-and-apps-that-the-product-team-uses.md)
+* [Products](product/products-what-is-the-product-team-currently-working-on.md)
+* [Software](product/software-what-languages-and-frameworks-does-the-product-team-use.md)
+* [Brand](product/brand-what-are-the-brand-guidelines-and-mission-statements.md)
 
 ## Growth
 
-* [Current Team - Who's part of the Growth team?](growth/current-team.md)
-* [Objectives - What does the Growth team want to achieve this year?](growth/objectives.md)
-* [Tools - What are tools and apps that the Growth team uses?](growth/tools.md)
-* [Finance - How do we manage our accounts?](growth/finance.md)
-* [Legal - How do we draw up contracts and ensure transparency?](growth/legal.md)
-* [Marketing - What is our marketing strategy?](growth/marketing.md)
-* [Partnerships - How do we manage our partnerships and sponsor relations?](growth/partnerships.md)
+* [Current Team](growth/current-team-whos-part-of-the-growth-team.md)
+* [Objectives](growth/objectives-what-does-the-growth-team-want-to-achieve-this-year.md)
+* [Tools](growth/tools-what-are-tools-and-apps-that-the-growth-team-uses.md)
+* [Finance](growth/finance-how-do-we-manage-our-accounts.md)
+* [Legal](growth/legal-how-do-we-draw-up-contracts-and-ensure-transparency.md)
+* [Marketing](growth/marketing-what-is-our-marketing-strategy.md)
+* [Partnerships](growth/partnerships-how-do-we-manage-our-partnerships-and-sponsor-relations.md)
 
 ## Community
 
-* [Current Team - Who's part of the Community team?](community/current-team.md)
-* [Tools - What are tools and apps that the Community team uses?](community/tools.md)
-* [Events - What are the core events that WarwickTECH runs?](community/events.md)
-* [Campus Startup - What is Campus Startup?](community/campus-startup.md)
-* [Code of Conduct - What is the Code of Conduct?](community/codeofconduct.md)
+* [Current Team](community/current-team-whos-part-of-the-community-team.md)
+* [Tools](community/tools-what-are-tools-and-apps-that-the-community-team-uses.md)
+* [Events](community/events-what-are-the-core-events-that-warwicktech-runs.md)
+* [Campus Startup](community/campus-startup-what-is-campus-startup.md)
+* [Code of Conduct](community/code-of-conduct-what-is-the-code-of-conduct.md)
 
